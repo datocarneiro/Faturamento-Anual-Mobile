@@ -1,0 +1,39 @@
+# Android Studio
+.idea/
+*.iml
+# Gradle
+.gradle/
+build/
+**/build/
+# Log e Cache
+*.log
+.cache/
+local.properties
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+# Arquivos de teste ou temporários
+*.swp
+*.tmp
+# Arquivos de APK/Executáveis gerados
+*.apk
+*.ap_
+*.dex
+# NDK
+obj/
+# Caches
+.cxx/
+# Arquivos de configuração específicos de usuário
+*.keystore
+*.jks
+# Arquivos de backup do sistema
+*~
+*.bak
+# IntelliJ
+out/
+# VS Code (caso use)
+.vscode/
+# Pasta de build intermediária do NDK
+.externalNativeBuild/
+# Firebase e outros dados sensíveis
+google-services.json
