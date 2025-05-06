@@ -6,6 +6,8 @@ Este é um aplicativo Android simples que permite ao usuário adicionar ou exclu
 
 Os dados de faturamento são **salvos de forma persistente utilizando `SharedPreferences`**, garantindo que as informações do usuário sejam mantidas mesmo após o fechamento do aplicativo.
 
+![img.png](img.png)
+
 ## 🧰 Funcionalidades
 
 - Seleção de ano via `NumberPicker` (de 2000 a 2025)
