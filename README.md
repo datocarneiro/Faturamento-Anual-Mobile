@@ -1,4 +1,4 @@
-# 📱 Aplicativo de Faturamento Anual
+# 📱 Aplicativo de Faturamento Anual ...
 
 Este é um aplicativo Android simples que permite ao usuário adicionar ou excluir valores de faturamento associados a um determinado ano. O saldo anual é exibido em tempo real com base nos dados armazenados localmente.
 
